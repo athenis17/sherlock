@@ -1,4 +1,5 @@
-{
+{git clone https://github.com/<joelene0>/sherlock.git
+cd sherlock
   "$schema": "data.schema.json",
   "1337x": {
     "errorMsg": [
